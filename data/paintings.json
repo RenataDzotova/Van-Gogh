@@ -1,0 +1,2427 @@
+[
+  {
+    "image_path": "/Paris/Vase with Red Poppies.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Self-Portrait with a Japanese Print.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Carnations 3.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Still Life with Apples.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Windmill on Montmartre.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Self-Portrait in Front of the Easel.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Walk Along the Banks of the Seine Near Asnieres.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Sloping Path in Montmartre.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/The Pont du Carrousel and the Louvre.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Still Life with Basket of Apples to Lucien Pissarro.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Street Scene in Montmartre.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Wheat Field with a Lark.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Plaster Statuette of a Horse.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Still Life with Grapes, Pears and Lemons.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Still Life with Bloaters 2.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Terrace of a Cafe on Montmartre La Guinguette.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Poppies, Cornflowers, Peonies and Chrysanthemums.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Carnations and Roses and a Bottle.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Self-Portrait with Pipe and Glass.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Self-Portrait 6.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Asters, Salvia and Other Flowers.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Still Life with Apples, Pears, Lemons and Grapes.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Portrait of a Man with a Skull Cap.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Self-Portrait with Straw Hat 2.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Plaster Statuette of a Female Torso 2.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Three Pairs of Shoes.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/The Still Life with Abs.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Gladioli and Carnations 2.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Plaster Statuette of a Male Torso.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Zinnias.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Still Life with Two Herrings, a Cloth and a Glass.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Self-Portrait 9.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Portrait of a Woman Madame Tanguy.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Peonies.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Portrait of a Man with a Moustache.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Self-Portrait 7.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Still Life with Decanter and Lemons on a Plate.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Trees in a Field on a Sunny Day.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Still Life with Bloaters.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Portrait of the Art Dealer Alexander Reid, Sitting in an Easy Chair.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with White and Red Carnations.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Gladioli and Carnations.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Daisies and Anemones.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Restaurant de la Sirene at Asnieres.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Plaster Statuette of a Female Torso 8.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Carnations and Other Flowers.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/View of Roofs and Backs of Houses.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Still Life with Grapes.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Still Life with Lemons on a Plate.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/View of Montmartre with Windmills.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Self-Portrait with Grey Felt Hat.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/The Seine with a Rowing Boat.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/The Fourteenth of July Celebration in Paris.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Self-Portrait 10.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Self-Portrait 8.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Portrait of a Man.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vegetable Gardens at Montmartre.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Plaster Statuette of a Female Torso 3.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Trees and Undergrowth 2.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Self-Portrait with Dark Felt Hat at the Easel.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Carnations.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Undergrowth 2.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Self-Portrait 5.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Daisies.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/White Vase with Roses and Other Flowers.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/The Rispal Restaurant at Asnieres.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Self-Portrait with Dark Felt Hat.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Two Cut Sunflowers 3.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Tambourine with Pansies.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Undergrowth.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Trees and Undergrowth.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Street Scene in Montmartre Le Moulin a Poivre.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/View of Paris from Vincent s Room in the Rue Lepic.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Gladioli and Lilac.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Still Life with Pears.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vegetable Garden in Montmartre.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Lilacs, Daisies and Anemones.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Woman Sitting in the Grass.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Zinnias and Geraniums.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/The Green Parrot.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Cornflowers and Poppies.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Red and White Carnations on Yellow Background.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/View of the Roofs of Paris.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Still Life with Mussels and Shrimps.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Roadway with Underpass The Viaduct.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Self-Portrait with Pipe 2.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Plaster Statuette of a Kneeling Man.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Still Life with Scabiosa and Ranunculus.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Self-Portrait 3.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Self-Portrait.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/View of Paris from Vincent s Room in the Rue Lepic 2.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Flowers, Coffeepot and Fruit.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/The Bois de Boulogne with People Walking.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Red Gladioli 3.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Portrait of the Art Dealer Alexander Reid.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/The Bois de Boulogne with People Walking 2.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Portrait of Pere Tanguy.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Zinnias and Other Flowers.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Carnations and Zinnias.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/The Banks of the Seine.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/The Banks of the Seine with Boats.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Still Life with French Novels and a Rose.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Skull.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Self-Portrait with Straw Hat and Pipe.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Carnations 2.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Asters and Phlox.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Self-Portrait with Straw Hat 3.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Woman Sitting by a Cradle.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Still Life with Meat, Vegetables and Pottery.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Gladioli.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Myosotis and Peonies.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Still Life with Plaster Statuette, a Rose and Two Novels.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Plaster Statuette of a Female Torso 5.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Still Life with Red Cabbages and Onions.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vegetable Gardens in Montmartre La Butte Montmartre.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Portrait of Pere Tanguy 3.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/The Bois de Boulogne with People Walking 3.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Twilight, before the Storm Montmartre.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Red Gladioli.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/The Seine with the Pont de la Grande Jette.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Self-Portrait with Straw Hat 5.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Two Cut Sunflowers 2.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Two Cut Sunflowers.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Self-Portrait with Straw Hat 4.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Self-Portrait 4.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Plaster Statuette of a Female Torso 6.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/The Seine Bridge at Asnieres.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Skull 2.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Plaster Statuette of a Female Torso.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Plaster Statuette of a Female Torso 4.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Still Life with Apples, Meat and a Roll.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Still Life with Basket of Apples.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/The Seine with the Pont de Clichy.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Self-Portrait with Grey Felt Hat 2.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Self-Portrait with Pipe.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Flowers.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Self-Portrait with Straw Hat.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Red Gladioli 2.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/The Hill of Montmartre with Quarry.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Still Life with Bloaters and Garlic.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Vase with Hollyhocks.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Still Life with Three Books.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Portrait of Pere Tanguy 2.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/The Restaurant de la Sirene at Asnieres.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/View of Paris from Montmartre.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Self-Portrait 11.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Self-Portrait 2.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Self-Portrait with Grey Felt Hat 3.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Still Life with a Basket of Crocuses.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/View of Paris from near Montmartre.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/Plaster Statuette of a Female Torso 7.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/View of a River with Rowing Boats.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Paris/The Kingfisher.jpg",
+    "class_name": "Paris",
+    "labels": 6
+  },
+  {
+    "image_path": "/Saint Remy/The Plough and the Harrow after Millet.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Wheat Field with Cypresses.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/The Man is at Sea after Demont-Breton.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Noon Rest from Work after Millet.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Peasant Woman Cutting Straw after Millet.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/The Garden of Saint-Paul Hospital with Figure.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Olive Grove Pale Blue Sky.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/L Arlesienne Madame Ginoux 5.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Pieta after Delacroix.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/The Iris.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Pine Trees with Figure in the Garden of Saint-Paul Hospital.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Old Man in Sorrow On the Threshold of Eternity.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Evening The End of the Day after Millet.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Starry Night.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Still Life Vase with Irises.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/The Thresher after Millet.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Portrait of Madame Trabuc.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/The Garden of Saint-Paul Hospital 4.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Enclosed Field with Rising Sun.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Undergrowth with Ivy.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Two Diggers Among Trees.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Great Peacock Moth.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/The Garden of Saint-Paul Hospital 5.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Wheat Field Behind Saint-Paul Hospital with a Reaper.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Two Peasants Digging.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Wheat Field with Reaper and Sun.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Cottages Reminiscence of the North.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Trees in the Garden of Saint-Paul Hospital.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Cypresses.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Cottages and Cypresses Reminiscence of the North.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Cypresses with Two Female Figures.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/The Garden of Saint-Paul Hospital 2.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/The Mulberry Tree.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Landscape in the Neighbourhood of Saint-Remy.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Olive Trees with Yellow Sky and Sun.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Les Peiroulets Ravine 2.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Blossoming Almond Tree.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/The White Cottage Among the Olive Trees.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Enclosed Field with Ploughman.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/The Garden of Saint-Paul Hospital.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Irises.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Poppies and Butterflies.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Trees in the Garden of Saint-Paul Hospital 2.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/The Pieta after Delacroix.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Mountains at Saint-Remy with Dark Cottage.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Wheat Field Behind Saint-Paul Hospital.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Wild Roses.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Entrance to a Quarry near Saint-Remy.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Field with Poppies.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Landscape with Couple Walking and Crescent Moon.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Le Mont Gaussier with the Mas de Saint-Paul.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Olive Grove Bright Blue Sky.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Roses and Beetle.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Wheat Field with Cypresses at the Haute Galline Near Eygalieres.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Wheat Field in Rain.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/The Road Menders 2.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Still Life Vase with Irises Against a Yellow Background.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Valley with Ploughman Seen from Above.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/At the Foot of the Mountains.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Morning Peasant Couple Going to Work.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Portrait of a Patient in Saint-Paul Hospital.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Olive Picking 3.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Shepherdess, The after Millet.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/The Road Menders.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Evening The Watch after Millet.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Half Figure of an Angel after Rembrandt.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Peasant Woman with a Rake after Millet.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Les Peiroulets Ravine 3.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Mountainous Landscape Behind Saint-Paul Hospital.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Sower, The after Millet.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Enclosed Wheat Field with Peasant.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Field with Two Rabbits.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/The Stone Bench in the Garden of Saint-Paul Hospital.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/L Arlesienne Madame Ginoux 4.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Entrance to a Quarry.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Vincent s Bedroom in Arles.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Prisoners Exercising after Dore.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/A Corner in the Garden of Saint-Paul Hospital.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Wheat Fields with Reaper at Sunrise.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Two Peasant Women Digging in Field with Snow.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Still Life Pink Roses in a Vase.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Olive Grove Orange Sky.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Olive Grove.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Olive Trees with the Alpilles in the Background.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Olive Grove with Picking Figures.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/L Arlesienne Madame Ginoux 3.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Olive Grove 2.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Tree Trunks with Ivy.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Sower, The after Millet 2.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Self-Portrait 3.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Self-Portrait.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Les Peiroulets Ravine.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Reaper with Sickle after Millet.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Lilacs.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Landscape with Olive Tree and Mountains in the Background.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Sheaf-Binder, The after Millet.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/The Garden of Saint-Paul Hospital 3.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/The Good Samaritan after Delacroix.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Peasant Woman Binding Sheaves after Millet.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Olive Trees Bright Blue Sky.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Trees in the Garden of Saint-Paul Hospital 3.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/A Road at Saint-Remy with Female Figure.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/L Arlesienne Madame Ginoux.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/View of the Church of Saint-Paul-de-Mausole.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Study of Pine Trees.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Two Poplars on a Road Through the Hills.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/L Arlesienne Madame Ginoux 2.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Pine Trees against a Red Sky with Setting Sun.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/The Woodcutter after Millet.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/The Walk Falling Leaves.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Sheep-Shearers, The after Millet.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Wooden Sheds.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Olive Grove 3.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Pine Trees and Dandelions in the Garden of Saint-Paul Hospital.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Cypresses and Two Women.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Peasants Lifting Potatoes.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Olive Picking.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/First Steps after Millet.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Thatched Cottages in the Sunshine Reminiscence of the North.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Still Life Vase with Roses.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Green Wheat Field 2.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Field with Ploughman and Mill.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Olive Trees against a Slope of a Hill.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Field of Spring Wheat at Sunrise.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Evening Landscape with Rising Moon.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Olive Trees.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Landscape with Trees and Figures.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Portrait of Trabuc, an Attendant at Saint-Paul Hospital.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Portrait of a Young Peasant.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Meadow in the Garden of Saint-Paul Hospital.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/The Spinner.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/The Drinkers.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/The Raising of Lazarus after Rembrandt.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Tree Trunks with Ivy 2.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Self-Portrait 2.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Road with Cypress and Star.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Olive Picking 2.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/The Reaper after Millet.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/The Bedroom.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/A Meadow in the Mountains Le Mas de Saint-Paul.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Green Wheat Fields.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Green Wheat Field with Cypress.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Saint Remy/Wheat Field with Cypresses 2.jpg",
+    "class_name": "Saint Remy",
+    "labels": 7
+  },
+  {
+    "image_path": "/Arles/Landscape with Snow.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Portrait of the Postman Joseph Roulin 3.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Langlois Bridge at Arles.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Courtyard of the Hospital at Arles.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Railway Carriages.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/La Berceuse Augustine Roulin 3.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Next painting.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Portrait of Armand Roulin.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Two Thistles.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Memory of the Garden at Etten.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Flowering Garden.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Les Alyscamps.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/L Arlesienne Madame Ginoux with Books.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/La Mousme, Sitting.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/La Berceuse Augustine Roulin 2.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Portrait of the Postman Joseph Roulin 6.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Two Crabs.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Entrance to the Public Park in Arles.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Ploughed Field.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Flowering Garden with Path.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Still Life Two Red Herrings.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Portrait of Madame Augustine Roulin.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Encampment of Gypsies with Caravans.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Ward in the Hospital in Arles.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Portrait of Milliet, Second Lieutenant of the Zouaves.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Still Life Vase with Twelve Sunflowers 2.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Baby Marcelle Roulin 2.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Almond Tree in Blossom.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Portrait of a One-Eyed Man.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Still Life Vase with Fifteen Sunflowers.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Self-Portrait with Bandaged Ear.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Blossoming Almond Branch in a Glass.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/A Pair of Shoes.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Langlois Bridge at Arles with Women Washing.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Spectators in the Arena at Arles.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Sower.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Old Woman of Arles, An.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Orchard in Blossom, Bordered by Cypresses 2.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Poet s Garden.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Next painting 2.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Park at Arles with the Entrance Seen through the Trees.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Sunny Lawn in a Public Park.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Canal with Women Washing.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Seascape at Saintes-Maries 2.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Still Life with Oranges, Lemons and Blue Gloves.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Portrait of the Postman Joseph Roulin 7.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Harvest in Provence.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Orchard with Peach Trees in Blossom.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Gleize Bridge over the Vigueirat Canal.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Still Life Vase with Zinnias.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Portrait of the Postman Joseph Roulin 2.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Apricot Trees in Blossom 2.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Orchard in Blossom, Bordered by Cypresses.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Seascape at Saintes-Maries.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Starry Night Over the Rhone.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Tarascon Diligence.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/A Pork-Butcher s Shop Seen from a Window.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Wheat Fields with Stacks.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Orchard in Blossom with View of Arles.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Blossoming Pear Tree.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/View of Arles with Trees in Blossom.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Snowy Landscape with Arles in the Background.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Madame Roulin Rocking the Cradle La Berceuse.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Portrait of the Postman Joseph Roulin 5.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Sower 3.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Red Vineyard.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Still Life Bottle, Lemons and Oranges.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Still Life French Novels.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Wheat Field with Sheaves.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Portrait of Camille Roulin 2.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Path Through a Field with Willows.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Peach Tree in Blossom.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Arles View from the Wheat Fields.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Still Life Drawing Board, Pipe, Onions and Sealing-Wax.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Novel Reader.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Portrait of Armand Roulin 2.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Orchard in Blossom 2.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Avenue of Plane Trees near Arles Station.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Portrait of Patience Escalier.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Willows at Sunset.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Still Life Majolica Jug with Wildflowers.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/View of Saintes-Maries.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The White Orchard.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Orchard in Blossom.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Sower 2.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Portrait of Doctor Felix Rey 2.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Pollard Willows.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Two Lovers Fragment.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Self-Portrait with Pipe and Straw Hat.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Clumps of Grass.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Still Life Vase with Fifteen Sunflowers 2.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Still Life Vase with Twelve Sunflowers.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Interior of the Restaurant Carrel in Arles.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Portrait of Eugene Boch.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Portrait of the Artist s Mother.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Interior of a Restaurant in Arles.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Still Life Vase with Oleanders and Books.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Pink Peach Tree in Blossom Reminiscence of Mauve.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Seated Zouave.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Night Cafe in the Place Lamartine in Arles.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Still Life with Basket and Six Oranges.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Still Life Vase with Oleanders.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Baby Marcelle Roulin.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Street in Saintes-Maries.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Still Life Potatoes in a Yellow Dish.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Old Mill.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Two White Butterflies.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Public Park at Arles.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Still Life Blue Enamel Coffeepot, Earthenware and Fruit.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Coal Barges 2.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Landscape Under a Stormy Sky.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Portrait of Doctor Felix Rey.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Still Life Vase with Fifteen Sunflowers 3.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Vincent s Bedroom in Arles.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Wheat Field.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/A Pair of Leather Clogs.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Harvest at La Crau, with Montmajour in the Background.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Trunk of an Old Yew Tree.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Three White Cottages in Saintes-Maries.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Paul Gauguin Man in a Red Beret.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Paul Gauguin s Armchair.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Bridge at Trinquetaille.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/La Crau with Peach Trees in Blossom.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Orchard in Blossom Plum Trees.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Langlois Bridge at Arles 2.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Mother Roulin with Her Baby.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/La Berceuse Augustine Roulin.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Self-Portrait with Bandaged Ear and Pipe.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Dance Hall in Arles.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Farmhouse in Provence.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/A Lane in the Public Garden at Arles.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Painter on His Way to Work.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Farmhouses in a Wheat Field Near Arles.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Public Garden with Couple and Blue Fir Tree The Poet s Garden III.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Trinquetaille Bridge.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Rosebush in Blossom.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Vincent s House in Arles The Yellow House.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Brothel.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Sower Outskirts of Arles in the Background.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Red Chestnuts in the Public Park at Arles.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Rocks with Oak Tree.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/A Field of Yellow Flowers.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Quay with Men Unloading Sand Barges.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Portrait of Camille Roulin.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Zouave Half Length.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/La Berceuse Augustine Roulin 4.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Orchard in Blossom 3.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Portrait of the Postman Joseph Roulin 4.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Farmhouse in a Wheat Field.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Wheat Field with the Alpilles Foothills in the Background.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Orchard with Blossoming Apricot Trees.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Sower 4.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Fishing Boats on the Beach at Saintes-Maries.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Green Ears of Wheat.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Railway Bridge over Avenue Montmajour, Arles.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Thistles.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Portrait of Patience Escalier, Shepherd in Provence.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Haystacks in Provence.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Grass and Butterflies.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Langlois Bridge at Arles with Road Alongside the Canal.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Vincent s Chair with His Pipe.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Young Man with a Cap.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Les Alyscamps 2.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Three Sunflowers in a Vase.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Coal Barges.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Les Alyscamps 3.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Mother Roulin with Her Baby 2.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Girl with Ruffled Hair The Mudlark.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Les Alyscamps Falling Autumn Leaves.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Portrait of the Postman Joseph Roulin 8.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Garden Behind a House.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Still Life Bowl with Daisies.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Portrait of the Postman Joseph Roulin.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Blossoming Almond Branch in a Glass with a Book.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Self-Portrait Dedicated to Paul Gauguin.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Wheat Stacks with Reaper.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/A Lane near Arles.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Smoker.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Still Life Bloaters on a Piece of Yellow Paper.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Still Life Vase with Five Sunflowers.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/A L Arlesienne Madame Ginoux with Gloves and Umbre.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Lovers The Poet s Garden IV.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Schoolboy Camille Roulin.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Sunset Wheat Fields Near Arles.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Baby Marcelle Roulin 3.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Apricot Trees in Blossom.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/The Green Vineyard.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/Crab on Its Back.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  },
+  {
+    "image_path": "/Arles/View of Arles with Irises in the Foreground.jpg",
+    "class_name": "Arles",
+    "labels": 1
+  }
+]
